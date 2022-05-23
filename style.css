@@ -4,14 +4,14 @@
 }
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background: white url(/imagens/bg.png);
+    background: white url(imagens/bg.png);
     margin: 15px;
 }
 a{
     text-decoration: none;
 }
 #container{
-    background: #ede9cc url(/imagens/bg-container.png) top center repeat-y;
+    background: #ede9cc url(imagens/bg-container.png) top center repeat-y;
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180px;
@@ -28,7 +28,7 @@ a{
     position: absolute;
     top: 0;
     left: 0;
-    background: url(/imagens/topo-imagem-principal.png) no-repeat;
+    background: url(imagens/topo-imagem-principal.png) no-repeat;
     z-index: 1;
 }
 .logo a{
@@ -36,7 +36,7 @@ a{
     top: 15px;
     left: 15px;
     z-index: 3;
-    background: url(/imagens/logo.png) no-repeat;
+    background: url(imagens/logo.png) no-repeat;
     width: 151px;
     height: 66px;
     text-indent: -9000px;
@@ -47,7 +47,7 @@ a{
     position: absolute;
     top: 0;
     right: 0;
-    background: url(/imagens/topo-imagem-lateral.png) no-repeat;
+    background: url(imagens/topo-imagem-lateral.png) no-repeat;
     z-index: 2;
 }
 #conteudo-menu{
@@ -133,7 +133,7 @@ p{
 footer{
     clear: both;
     padding: 16px;
-    background: white url(/imagens/bg-rodape.png) repeat-x top;
+    background: white url(imagens/bg-rodape.png) repeat-x top;
     color: #7d7640;
 }
 /*Imagens lateral*/
@@ -157,7 +157,7 @@ footer{
     font-size: 1.1em;
     color: #615b2d;
     padding: 5px 0;
-    background: url(/imagens/ornamento.png) no-repeat center right;
+    background: url(imagens/ornamento.png) no-repeat center right;
 }
 #beneficios li:hover{
     background-color: #f6f3d6;
